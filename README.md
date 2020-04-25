@@ -17,8 +17,8 @@ This application is deployed on heroku. To checkout this application visit this 
 
 **Project Structure**
 * The project contains two directory:
-1. models: This directory contains all the jupyter notebooks code used for scrapping the data, cleaning the data, and the machine learning model code.
-2. website: This directort contains the script used to build the web application using the Machine Learning model.
+1. model_files: This directory contains all the jupyter notebooks code used for scrapping the data, cleaning the data, and the machine learning model code.
+2. website_files: This directort contains the script used to build the web application using the Machine Learning model.
 
 **To setup the project on your local machine:**
 
